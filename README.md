@@ -10,5 +10,17 @@
 2. go to that directory in your terminal and enter the following 
 
 ```
-**python -m venv ll_env**
+python -m venv ll_env
+```
+
+### Activating Virtual Environment
+
+Following command:
+```
+source ll_env/bin/activate
+```
+
+### Installing Django
+```
+pip install django
 ```
