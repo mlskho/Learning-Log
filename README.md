@@ -9,6 +9,6 @@
 1. create a new directory for your project  <project_name>
 2. go to that directory in your terminal and enter the following 
 
-'''
+```
 **python -m venv ll_env**
-'''
+```
